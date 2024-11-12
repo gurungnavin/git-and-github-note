@@ -34,3 +34,4 @@ Date:   Tue Nov 12 09:10:21 2024 +0900
     first commit`
 
 c. copy hash for example: `647ae60c511d42f16c64163d26e6c8bc1b9beb1a`     
+:rocket: **Features**
