@@ -5,6 +5,8 @@
 4. git setup global with emailaddress: `git config --user.email 'example@gmail.com(your github email)'`
 # Setup Complete!
 
+
+
 > [!NOTE]
 > SETUP AND LINK commands(file and github repo)
 1. `git status` : is for check git status
@@ -41,3 +43,9 @@ Date:   Tue Nov 12 09:10:21 2024 +0900
 ```
 :rocket: copy hash, for example: `647ae60c511d42f16c64163d26e6c8bc1b9beb1a`     
 :rocket: `git checkout 647ae60c511d42f16c64163d26e6c8bc1b9beb1a` : paste here after **git checkout**
+
+> [!TIP]
+> FOR UNDO or getback to present state(main)
+:shipit: git checkout main (replace hash)
+
+
