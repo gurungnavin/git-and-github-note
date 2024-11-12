@@ -16,7 +16,7 @@ or
 ```
 | commands      | Description                        |
 |----------------|------------------------------------|
-| ```git status   | Works on mobile, tablet, and PC    |
+| `git status`   | Works on mobile, tablet, and PC    |
 | Fast         | Optimized for performance          |
 
 ```
