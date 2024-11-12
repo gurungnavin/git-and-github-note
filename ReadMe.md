@@ -47,6 +47,6 @@ Date:   Tue Nov 12 09:10:21 2024 +0900
 > [!TIP]
 > FOR UNDO or getback to present state(main)
 
-:shipit: git checkout main (replace hash)
+:shipit:   `git checkout main` : (replace hash)
 
 
