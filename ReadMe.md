@@ -6,20 +6,13 @@
 #Setup Complete!
 
 #SETUP AND LINK commands(file and github repo)
-1. `git status` : is for check git status
+1. ```git status : is for check git status
 2. `git add index.html` : add index.html file(with file name)
 or
 3. `git add .` : we can add all file with that . sign
 4. `git commit -m "your message"` : git commit is for commited your git action and -m is for message.
 5. `git log` : is stand for check the history.
 
-```
-| commands      | Description                        |
-|----------------|------------------------------------|
-| `git status`   | Works on mobile, tablet, and PC    |
-| Fast         | Optimized for performance          |
-
-```
 
 #HOW TO REVERSE PREVIOUS TO PREVIOUS COMMIT OR STATE
 :rocket:  `git log` : write this command on terminal
