@@ -16,7 +16,9 @@
 
 #HOW TO REVERSE PREVIOUS TO PREVIOUS COMMIT OR STATE
 :rocket:  `git log` : write this command on terminal
-:rocket: for example : `commit 125e5c30bbf6814b621d5ea4978c778835ea9459 (HEAD -> main)
+:rocket: for example : 
+```markdown
+`commit 125e5c30bbf6814b621d5ea4978c778835ea9459 (HEAD -> main)
 Author: navincograph179 <navin_gurung@co-graph.com>
 Date:   Tue Nov 12 10:01:24 2024 +0900
 
@@ -33,6 +35,6 @@ Author: navincograph179 <navin_gurung@co-graph.com>
 Date:   Tue Nov 12 09:10:21 2024 +0900
 
     first commit`
-
-:rocket: copy hash for example: `647ae60c511d42f16c64163d26e6c8bc1b9beb1a`     
+```
+:rocket: copy hash, for example: `647ae60c511d42f16c64163d26e6c8bc1b9beb1a`     
 :rocket: `git checkout 647ae60c511d42f16c64163d26e6c8bc1b9beb1a` : paste here after **git checkout**
