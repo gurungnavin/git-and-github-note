@@ -11,4 +11,4 @@
 or
 3. `git add .` : we can add all file with that . sign
 4. `git commit -m "your message"` : git commit is for commited your git action and -m is for message.
-
+5. `git log` : is stand for 
