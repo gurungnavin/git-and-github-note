@@ -12,10 +12,15 @@ or
 3. `git add .` : we can add all file with that . sign
 4. `git commit -m "your message"` : git commit is for commited your git action and -m is for message.
 5. `git log` : is stand for check the history.
+| Feature      | Description                        |
+|--------------|------------------------------------|
+| Responsive   | Works on mobile, tablet, and PC    |
+| Fast         | Optimized for performance          |
+
 
 #HOW TO REVERSE PREVIOUS TO PREVIOUS COMMIT OR STATE
-a.  `git log` : write this command on terminal
-b. for example : `commit 125e5c30bbf6814b621d5ea4978c778835ea9459 (HEAD -> main)
+:rocket:  `git log` : write this command on terminal
+:rocket: for example : `commit 125e5c30bbf6814b621d5ea4978c778835ea9459 (HEAD -> main)
 Author: navincograph179 <navin_gurung@co-graph.com>
 Date:   Tue Nov 12 10:01:24 2024 +0900
 
