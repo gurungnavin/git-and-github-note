@@ -51,3 +51,14 @@ Date:   Tue Nov 12 09:10:21 2024 +0900
 
 
 ![スクリーンショット 2024-11-12 111429](https://github.com/user-attachments/assets/6a24eb69-2888-4ae2-9d5c-d6987acbc3d2)
+
+> [!TIP]
+> `git checkout -f main` : for forcefully return
+
+## Create branch
+`git checkout -b branch-name`
+
+## before Push SOMETHING, check the updates
+`git pull`
+> [!IMPORTAND]
+> pull request let's us share our changes to team mates for review and feedback
