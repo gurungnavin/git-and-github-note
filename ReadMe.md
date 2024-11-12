@@ -6,9 +6,9 @@
 #Setup Complete!
 
 #SETUP AND LINK commands(file and github repo)
-1. ```git status : is for check git status
+1. `git status` : is for check git status
 2. `git add index.html` : add index.html file(with file name)
-or
+##or
 3. `git add .` : we can add all file with that . sign
 4. `git commit -m "your message"` : git commit is for commited your git action and -m is for message.
 5. `git log` : is stand for check the history.
@@ -34,5 +34,5 @@ Date:   Tue Nov 12 09:10:21 2024 +0900
 
     first commit`
 
-c. copy hash for example: `647ae60c511d42f16c64163d26e6c8bc1b9beb1a`     
-:rocket: **Features**
+:rocket: copy hash for example: `647ae60c511d42f16c64163d26e6c8bc1b9beb1a`     
+:rocket: `git checkout 647ae60c511d42f16c64163d26e6c8bc1b9beb1a` : paste here after **git checkout**
