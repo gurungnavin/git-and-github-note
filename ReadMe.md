@@ -14,9 +14,9 @@ or
 5. `git log` : is stand for check the history.
 
 ```
-| Feature      | Description                        |
-|--------------|------------------------------------|
-| Responsive   | Works on mobile, tablet, and PC    |
+| commands      | Description                        |
+|----------------|------------------------------------|
+| ```git status   | Works on mobile, tablet, and PC    |
 | Fast         | Optimized for performance          |
 
 ```
